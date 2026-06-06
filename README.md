@@ -39,7 +39,7 @@ Projeyi kendi bilgisayarınızda geliştirmek veya incelemek isterseniz:
 
 1. Repoyu klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/wintask_scheduler_X.git](https://github.com/KULLANICI_ADIN/wintask_scheduler_X.git)
+   git clone [https://github.com/emkontonesx/wintask_scheduler_X.git](https://github.com/emkontonesx/wintask_scheduler_X.git)
 
     Projeyi Visual Studio (2022 veya daha yeni) ile açın.
 
