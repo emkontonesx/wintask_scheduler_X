@@ -22,7 +22,8 @@ Sürekli tekrarlanan `schtasks.exe` komut satırı eziyetine son vermek ve göre
 
 ## 📸 Ekran Görüntüleri
 
-*(Buraya programının çalıştığı anlardan birkaç ekran görüntüsü ekleyebilirsin)*
+<img width="504" height="381" alt="Ekran görüntüsü 2026-06-06 200818" src="https://github.com/user-attachments/assets/271f63d8-488f-4bb5-b442-06765f73ddf0" />
+
 ## 📥 Kurulum ve Kullanım
 
 Kodu derlemekle uğraşmak istemiyorsanız, doğrudan çalıştırılabilir sürümü indirebilirsiniz:
